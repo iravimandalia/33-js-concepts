@@ -375,7 +375,7 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
----
+----
 
 ## 14. Factories and Classes
 
